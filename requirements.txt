@@ -20,4 +20,5 @@ uvicorn
 jinja2
 python-multipart
 load_dotenv
+optuna
 -e .
